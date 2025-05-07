@@ -25,7 +25,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ICASSP-2025-LOGO-COLOR-with-Theme-1-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP-2025-LOGO-COLOR-with-Theme-1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Li Manman*, co-author,co-author, co-author
