@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "李海博的简历"
+title: "LiManman的简历"
 excerpt: ""
 author_profile: true
 redirect_from: 
